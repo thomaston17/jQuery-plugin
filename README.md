@@ -2,4 +2,4 @@
 
 Description:
 
-Contains jQuery plugin for sticky nav and slick carousel .
+Contains jQuery plugin for sticky nav and slick carousel.
